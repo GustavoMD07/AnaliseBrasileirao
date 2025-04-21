@@ -1,0 +1,381 @@
+Temporada,Rodada,Mandante,Visitante,Mandante Placar,Visitante Placar
+2023,1,Palmeiras,Cuiabá,2,1
+2023,1,América-MG,Fluminense,0,3
+2023,1,Botafogo,São Paulo,2,1
+2023,1,Bragantino,Bahia,2,1
+2023,1,Athletico-PR,Goiás,2,0
+2023,1,Fortaleza,Internacional,1,1
+2023,1,Atlético-MG,Vasco,1,2
+2023,1,Flamengo,Coritiba,3,0
+2023,1,Corinthians,Cruzeiro,2,1
+2023,1,Grêmio,Santos,1,0
+2023,2,Fluminense,Athletico-PR,2,0
+2023,2,São Paulo,América-MG,3,0
+2023,2,Cuiabá,Bragantino,1,1
+2023,2,Cruzeiro,Grêmio,1,0
+2023,2,Internacional,Flamengo,2,1
+2023,2,Vasco,Palmeiras,2,2
+2023,2,Santos,Atlético-MG,0,0
+2023,2,Coritiba,Fortaleza,0,3
+2023,2,Goiás,Corinthians,3,1
+2023,2,Bahia,Botafogo,1,2
+2023,3,Coritiba,São Paulo,1,1
+2023,3,Fortaleza,Fluminense,4,2
+2023,3,Palmeiras,Corinthians,2,1
+2023,3,Santos,América-MG,3,2
+2023,3,Bragantino,Cruzeiro,0,3
+2023,3,Atlético-MG,Athletico-PR,2,1
+2023,3,Flamengo,Botafogo,2,3
+2023,3,Internacional,Goiás,1,0
+2023,3,Cuiabá,Grêmio,1,2
+2023,3,Vasco,Bahia,0,1
+2023,4,Cruzeiro,Santos,2,1
+2023,4,Fluminense,Vasco,1,1
+2023,4,América-MG,Cuiabá,1,2
+2023,4,São Paulo,Internacional,2,0
+2023,4,Athletico-PR,Flamengo,2,1
+2023,4,Bahia,Coritiba,3,1
+2023,4,Botafogo,Atlético-MG,2,0
+2023,4,Goiás,Palmeiras,0,5
+2023,4,Grêmio,Bragantino,3,3
+2023,4,Corinthians,Fortaleza,1,1
+2023,5,Santos,Bahia,3,0
+2023,5,Bragantino,América-MG,2,2
+2023,5,Internacional,Athletico-PR,0,2
+2023,5,Flamengo,Goiás,2,0
+2023,5,Cuiabá,Atlético-MG,0,4
+2023,5,Palmeiras,Grêmio,4,1
+2023,5,Cruzeiro,Fluminense,0,2
+2023,5,Coritiba,Vasco,1,1
+2023,5,Botafogo,Corinthians,3,0
+2023,5,Fortaleza,São Paulo,0,0
+2023,6,Bahia,Flamengo,2,3
+2023,6,Fluminense,Cuiabá,2,0
+2023,6,Palmeiras,Bragantino,1,1
+2023,6,Atlético-MG,Internacional,2,0
+2023,6,Vasco,Santos,0,1
+2023,6,Corinthians,São Paulo,1,1
+2023,6,Grêmio,Fortaleza,0,0
+2023,6,Goiás,Botafogo,2,1
+2023,6,Athletico-PR,Coritiba,3,2
+2023,6,América-MG,Cruzeiro,0,4
+2023,7,Bahia,Goiás,1,1
+2023,7,Botafogo,Fluminense,1,0
+2023,7,São Paulo,Vasco,4,2
+2023,7,Bragantino,Athletico-PR,2,0
+2023,7,Coritiba,Atlético-MG,1,2
+2023,7,América-MG,Fortaleza,2,1
+2023,7,Santos,Palmeiras,0,0
+2023,7,Flamengo,Corinthians,1,0
+2023,7,Grêmio,Internacional,3,1
+2023,7,Cruzeiro,Cuiabá,0,1
+2023,8,Athletico-PR,Grêmio,1,2
+2023,8,Fortaleza,Vasco,2,0
+2023,8,Flamengo,Cruzeiro,1,1
+2023,8,Cuiabá,Coritiba,1,1
+2023,8,São Paulo,Goiás,2,1
+2023,8,Corinthians,Fluminense,2,0
+2023,8,Internacional,Bahia,2,0
+2023,8,Bragantino,Santos,2,0
+2023,8,Atlético-MG,Palmeiras,1,1
+2023,8,Botafogo,América-MG,2,0
+2023,9,Fortaleza,Bahia,0,0
+2023,9,Cruzeiro,Atlético-MG,0,1
+2023,9,Athletico-PR,Botafogo,1,0
+2023,9,América-MG,Corinthians,2,0
+2023,9,Santos,Internacional,1,1
+2023,9,Fluminense,Bragantino,2,1
+2023,9,Grêmio,São Paulo,2,1
+2023,9,Palmeiras,Coritiba,3,1
+2023,9,Goiás,Cuiabá,0,1
+2023,9,Vasco,Flamengo,1,4
+2023,10,Coritiba,Santos,0,0
+2023,10,Corinthians,Cuiabá,1,1
+2023,10,Atlético-MG,Bragantino,1,1
+2023,10,Bahia,Cruzeiro,2,2
+2023,10,Botafogo,Fortaleza,2,0
+2023,10,América-MG,Athletico-PR,2,2
+2023,10,São Paulo,Palmeiras,0,2
+2023,10,Internacional,Vasco,2,1
+2023,10,Flamengo,Grêmio,3,0
+2023,10,Goiás,Fluminense,2,2
+2023,11,São Paulo,Athletico-PR,2,1
+2023,11,Cruzeiro,Fortaleza,0,1
+2023,11,Santos,Corinthians,0,2
+2023,11,Fluminense,Atlético-MG,1,1
+2023,11,Bahia,Palmeiras,1,0
+2023,11,Grêmio,América-MG,3,1
+2023,11,Vasco,Goiás,0,1
+2023,11,Coritiba,Internacional,0,1
+2023,11,Cuiabá,Botafogo,0,1
+2023,11,Bragantino,Flamengo,4,0
+2023,12,Athletico-PR,Corinthians,1,0
+2023,12,Fluminense,Bahia,2,1
+2023,12,Fortaleza,Atlético-MG,2,1
+2023,12,Cruzeiro,São Paulo,1,0
+2023,12,Palmeiras,Botafogo,0,1
+2023,12,Grêmio,Coritiba,5,1
+2023,12,Santos,Flamengo,2,3
+2023,12,Bragantino,Goiás,2,0
+2023,12,América-MG,Internacional,1,2
+2023,12,Vasco,Cuiabá,1,0
+2023,13,São Paulo,Fluminense,1,0
+2023,13,Flamengo,Fortaleza,2,0
+2023,13,Bahia,Grêmio,1,2
+2023,13,Internacional,Cruzeiro,0,0
+2023,13,Corinthians,Bragantino,0,1
+2023,13,Botafogo,Vasco,2,0
+2023,13,Atlético-MG,América-MG,2,2
+2023,13,Athletico-PR,Palmeiras,2,2
+2023,13,Cuiabá,Santos,3,0
+2023,13,Goiás,Coritiba,1,2
+2023,14,Vasco,Cruzeiro,0,1
+2023,14,Cuiabá,Bahia,1,1
+2023,14,Atlético-MG,Corinthians,0,1
+2023,14,Coritiba,América-MG,3,1
+2023,14,Palmeiras,Flamengo,1,1
+2023,14,Santos,Goiás,4,3
+2023,14,Fluminense,Internacional,2,0
+2023,14,Bragantino,São Paulo,0,0
+2023,14,Grêmio,Botafogo,0,2
+2023,14,Fortaleza,Athletico-PR,1,0
+2023,15,Botafogo,Bragantino,2,0
+2023,15,Cruzeiro,Coritiba,0,0
+2023,15,Fluminense,Flamengo,0,0
+2023,15,São Paulo,Santos,4,1
+2023,15,Fortaleza,Cuiabá,0,1
+2023,15,Internacional,Palmeiras,0,0
+2023,15,Athletico-PR,Bahia,2,0
+2023,15,Goiás,Atlético-MG,0,0
+2023,15,Corinthians,Grêmio,4,4
+2023,15,América-MG,Vasco,0,1
+2023,16,Flamengo,América-MG,1,1
+2023,16,Palmeiras,Fortaleza,3,1
+2023,16,Bahia,Corinthians,0,0
+2023,16,Cuiabá,São Paulo,2,1
+2023,16,Grêmio,Atlético-MG,1,0
+2023,16,Santos,Botafogo,2,2
+2023,16,Bragantino,Internacional,0,0
+2023,16,Cruzeiro,Goiás,0,1
+2023,16,Vasco,Athletico-PR,0,2
+2023,16,Coritiba,Fluminense,2,0
+2023,17,Fluminense,Santos,1,0
+2023,17,Internacional,Cuiabá,1,2
+2023,17,Athletico-PR,Cruzeiro,3,3
+2023,17,Corinthians,Vasco,3,1
+2023,17,Fortaleza,Bragantino,0,3
+2023,17,Atlético-MG,Flamengo,1,2
+2023,17,São Paulo,Bahia,0,0
+2023,17,Botafogo,Coritiba,4,1
+2023,17,América-MG,Palmeiras,1,4
+2023,17,Goiás,Grêmio,1,1
+2023,18,Santos,Athletico-PR,1,1
+2023,18,Goiás,Fortaleza,1,0
+2023,18,Internacional,Corinthians,2,2
+2023,18,Fluminense,Palmeiras,2,1
+2023,18,Vasco,Grêmio,1,0
+2023,18,São Paulo,Atlético-MG,0,2
+2023,18,Cruzeiro,Botafogo,0,0
+2023,18,Coritiba,Bragantino,0,1
+2023,18,Bahia,América-MG,3,1
+2023,18,Cuiabá,Flamengo,3,0
+2023,19,Botafogo,Internacional,3,1
+2023,19,Atlético-MG,Bahia,1,0
+2023,19,Corinthians,Coritiba,3,1
+2023,19,Grêmio,Fluminense,2,1
+2023,19,América-MG,Goiás,0,1
+2023,19,Flamengo,São Paulo,1,1
+2023,19,Fortaleza,Santos,4,0
+2023,19,Palmeiras,Cruzeiro,1,0
+2023,19,Bragantino,Vasco,1,1
+2023,19,Athletico-PR,Cuiabá,2,0
+2023,20,São Paulo,Botafogo,0,0
+2023,20,Internacional,Fortaleza,0,1
+2023,20,Fluminense,América-MG,3,1
+2023,20,Cuiabá,Palmeiras,0,2
+2023,20,Cruzeiro,Corinthians,1,1
+2023,20,Vasco,Atlético-MG,1,0
+2023,20,Santos,Grêmio,2,1
+2023,20,Coritiba,Flamengo,2,3
+2023,20,Bahia,Bragantino,4,0
+2023,20,Goiás,Athletico-PR,1,1
+2023,21,Flamengo,Internacional,0,0
+2023,21,Corinthians,Goiás,1,1
+2023,21,Bragantino,Cuiabá,2,0
+2023,21,Botafogo,Bahia,3,0
+2023,21,Atlético-MG,Santos,2,0
+2023,21,América-MG,São Paulo,2,1
+2023,21,Palmeiras,Vasco,1,0
+2023,21,Athletico-PR,Fluminense,2,2
+2023,21,Fortaleza,Coritiba,3,1
+2023,21,Grêmio,Cruzeiro,3,0
+2023,22,Goiás,Internacional,0,0
+2023,22,Athletico-PR,Atlético-MG,1,1
+2023,22,Botafogo,Flamengo,1,2
+2023,22,Grêmio,Cuiabá,2,0
+2023,22,Fluminense,Fortaleza,1,0
+2023,22,Corinthians,Palmeiras,0,0
+2023,22,Cruzeiro,Bragantino,0,0
+2023,22,Bahia,Vasco,1,1
+2023,22,América-MG,Santos,2,0
+2023,22,São Paulo,Coritiba,2,1
+2023,23,Flamengo,Athletico-PR,0,3
+2023,23,Internacional,São Paulo,2,1
+2023,23,Santos,Cruzeiro,0,3
+2023,23,Fortaleza,Corinthians,2,1
+2023,23,Coritiba,Bahia,2,4
+2023,23,Bragantino,Grêmio,2,0
+2023,23,Cuiabá,América-MG,2,2
+2023,23,Palmeiras,Goiás,1,0
+2023,23,Vasco,Fluminense,4,2
+2023,23,Atlético-MG,Botafogo,1,0
+2023,24,Bahia,Santos,1,2
+2023,24,América-MG,Bragantino,0,2
+2023,24,Goiás,Flamengo,0,0
+2023,24,Fluminense,Cruzeiro,1,0
+2023,24,São Paulo,Fortaleza,1,2
+2023,24,Vasco,Coritiba,5,1
+2023,24,Athletico-PR,Internacional,2,1
+2023,24,Grêmio,Palmeiras,1,0
+2023,24,Corinthians,Botafogo,1,0
+2023,24,Atlético-MG,Cuiabá,1,0
+2023,25,Flamengo,Bahia,1,0
+2023,25,Fortaleza,Grêmio,1,1
+2023,25,São Paulo,Corinthians,2,1
+2023,25,Cuiabá,Fluminense,3,0
+2023,25,Internacional,Atlético-MG,0,2
+2023,25,Santos,Vasco,4,1
+2023,25,Cruzeiro,América-MG,1,1
+2023,25,Coritiba,Athletico-PR,2,0
+2023,25,Bragantino,Palmeiras,2,1
+2023,25,Botafogo,Goiás,1,1
+2023,26,Goiás,Bahia,4,6
+2023,26,Vasco,São Paulo,0,0
+2023,26,Corinthians,Flamengo,1,1
+2023,26,Fluminense,Botafogo,0,2
+2023,26,Palmeiras,Santos,1,2
+2023,26,Internacional,Grêmio,3,2
+2023,26,Atlético-MG,Coritiba,1,2
+2023,26,Athletico-PR,Bragantino,1,1
+2023,26,Fortaleza,América-MG,3,2
+2023,26,Cuiabá,Cruzeiro,0,0
+2023,27,Grêmio,Athletico-PR,1,2
+2023,27,Coritiba,Cuiabá,0,3
+2023,27,América-MG,Botafogo,1,2
+2023,27,Vasco,Fortaleza,1,0
+2023,27,Goiás,São Paulo,2,0
+2023,27,Bahia,Internacional,1,0
+2023,27,Palmeiras,Atlético-MG,0,2
+2023,27,Cruzeiro,Flamengo,0,2
+2023,27,Santos,Bragantino,1,3
+2023,27,Fluminense,Corinthians,3,3
+2023,28,São Paulo,Grêmio,3,0
+2023,28,Bahia,Fortaleza,2,0
+2023,28,Cuiabá,Goiás,1,1
+2023,28,Botafogo,Athletico-PR,1,1
+2023,28,Flamengo,Vasco,1,0
+2023,28,Atlético-MG,Cruzeiro,0,1
+2023,28,Internacional,Santos,7,1
+2023,28,Corinthians,América-MG,1,1
+2023,28,Bragantino,Fluminense,1,0
+2023,28,Coritiba,Palmeiras,0,2
+2023,29,Fluminense,Goiás,5,3
+2023,29,Bragantino,Atlético-MG,1,2
+2023,29,Athletico-PR,América-MG,3,2
+2023,29,Palmeiras,São Paulo,5,0
+2023,29,Cruzeiro,Bahia,3,0
+2023,29,Grêmio,Flamengo,3,2
+2023,29,Cuiabá,Corinthians,0,1
+2023,29,Vasco,Internacional,1,2
+2023,29,Santos,Coritiba,2,1
+2023,29,Fortaleza,Botafogo,2,2
+2023,30,Palmeiras,Bahia,1,0
+2023,30,América-MG,Grêmio,3,4
+2023,30,Atlético-MG,Fluminense,2,0
+2023,30,Goiás,Vasco,1,1
+2023,30,Athletico-PR,São Paulo,1,1
+2023,30,Corinthians,Santos,1,1
+2023,30,Internacional,Coritiba,3,4
+2023,30,Botafogo,Cuiabá,0,1
+2023,30,Fortaleza,Cruzeiro,0,1
+2023,30,Flamengo,Bragantino,1,0
+2023,31,Bahia,Fluminense,1,0
+2023,31,Corinthians,Athletico-PR,1,0
+2023,31,Internacional,América-MG,1,1
+2023,31,Flamengo,Santos,1,2
+2023,31,Coritiba,Grêmio,1,2
+2023,31,Botafogo,Palmeiras,3,4
+2023,31,Atlético-MG,Fortaleza,3,1
+2023,31,Cuiabá,Vasco,0,2
+2023,31,Goiás,Bragantino,0,2
+2023,31,São Paulo,Cruzeiro,1,0
+2023,32,Grêmio,Bahia,1,0
+2023,32,América-MG,Atlético-MG,1,1
+2023,32,Palmeiras,Athletico-PR,1,0
+2023,32,Bragantino,Corinthians,1,0
+2023,32,Cruzeiro,Internacional,1,2
+2023,32,Fortaleza,Flamengo,0,2
+2023,32,Coritiba,Goiás,0,1
+2023,32,Vasco,Botafogo,1,0
+2023,32,Santos,Cuiabá,0,0
+2023,32,Fluminense,São Paulo,1,0
+2023,33,Internacional,Fluminense,0,0
+2023,33,América-MG,Coritiba,0,3
+2023,33,São Paulo,Bragantino,1,0
+2023,33,Athletico-PR,Fortaleza,1,1
+2023,33,Flamengo,Palmeiras,3,0
+2023,33,Corinthians,Atlético-MG,1,1
+2023,33,Goiás,Santos,0,1
+2023,33,Botafogo,Grêmio,3,4
+2023,33,Bahia,Cuiabá,0,3
+2023,33,Cruzeiro,Vasco,2,2
+2023,34,Coritiba,Cruzeiro,1,0
+2023,34,Flamengo,Fluminense,1,1
+2023,34,Palmeiras,Internacional,3,0
+2023,34,Bragantino,Botafogo,2,2
+2023,34,Grêmio,Corinthians,0,1
+2023,34,Vasco,América-MG,2,1
+2023,34,Santos,São Paulo,0,0
+2023,34,Atlético-MG,Goiás,2,1
+2023,34,Bahia,Athletico-PR,1,1
+2023,34,Cuiabá,Fortaleza,2,1
+2023,35,Corinthians,Bahia,1,5
+2023,35,Athletico-PR,Vasco,0,0
+2023,35,Fluminense,Coritiba,2,1
+2023,35,Botafogo,Santos,1,1
+2023,35,Atlético-MG,Grêmio,3,0
+2023,35,São Paulo,Cuiabá,0,0
+2023,35,Internacional,Bragantino,1,0
+2023,35,Fortaleza,Palmeiras,2,2
+2023,35,América-MG,Flamengo,0,3
+2023,35,Goiás,Cruzeiro,0,1
+2023,36,Vasco,Corinthians,2,4
+2023,36,Santos,Fluminense,0,3
+2023,36,Flamengo,Atlético-MG,0,3
+2023,36,Bahia,São Paulo,0,1
+2023,36,Cuiabá,Internacional,0,2
+2023,36,Palmeiras,América-MG,4,0
+2023,36,Coritiba,Botafogo,1,1
+2023,36,Grêmio,Goiás,2,1
+2023,36,Cruzeiro,Athletico-PR,1,1
+2023,36,Bragantino,Fortaleza,1,2
+2023,37,Corinthians,Internacional,1,2
+2023,37,Atlético-MG,São Paulo,2,1
+2023,37,Flamengo,Cuiabá,2,1
+2023,37,Palmeiras,Fluminense,1,0
+2023,37,Botafogo,Cruzeiro,0,0
+2023,37,Bragantino,Coritiba,1,0
+2023,37,Grêmio,Vasco,1,0
+2023,37,Athletico-PR,Santos,3,0
+2023,37,Fortaleza,Goiás,1,0
+2023,37,América-MG,Bahia,3,2
+2023,38,Goiás,América-MG,1,0
+2023,38,Fluminense,Grêmio,2,3
+2023,38,Vasco,Bragantino,2,1
+2023,38,São Paulo,Flamengo,1,0
+2023,38,Santos,Fortaleza,1,2
+2023,38,Cruzeiro,Palmeiras,1,1
+2023,38,Internacional,Botafogo,3,1
+2023,38,Coritiba,Corinthians,0,2
+2023,38,Bahia,Atlético-MG,4,1
+2023,38,Cuiabá,Athletico-PR,3,0
